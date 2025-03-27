@@ -8,7 +8,7 @@ public class contaTerminal {
         System.out.println("Digite seu número da conta bancária");
         int numero = terminal.nextInt();
         System.out.println("Digite o número correspondente a sua agência");
-        terminal.nextLine();;
+        terminal.nextLine();
        String agencia = terminal.nextLine();
         System.out.println("Digite seu nome");
         String nome = terminal.nextLine();
