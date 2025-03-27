@@ -17,7 +17,7 @@ public class contaTerminal {
         // obter pelo scanner os dados obtidos pelo usuário
         // exibir os dados do usuario
 
-        System.out.println("Olá " + nome +", obrigado por criar uma conta em nosso banco, sua agência é " + agencia+",conta "+ numero+"e seu saldo"+saldo+"já está disponível para saque.");
+        System.out.println("Olá " + nome +", obrigado por criar uma conta em nosso banco, sua agência é " + agencia+",conta "+ numero+"e seu saldo"+ saldo+" já está disponível para saque.");
         terminal.close();
     }
 }
